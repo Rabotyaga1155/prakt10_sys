@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (practica10.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  practica10.cpp
+C:\Users\Incl\Desktop\prakt10_por\practica10\practica10.cpp(68,96): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+C:\Users\Incl\Desktop\prakt10_por\practica10\practica10.cpp(68,96): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+C:\Users\Incl\Desktop\prakt10_por\practica10\practica10.cpp(116,39): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Incl\Desktop\prakt10_por\practica10\practica10.cpp(42,8): warning C4101: IDThread: неиспользованная локальная переменная
+  practica10.vcxproj -> C:\Users\Incl\Desktop\prakt10_por\x64\Debug\prakt10.exe
